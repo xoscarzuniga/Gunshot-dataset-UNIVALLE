@@ -1,0 +1,95 @@
+Archivo;Arma;Calibre;Distancia (metros);Ángulo (°);Nombre_V2
+001A_S01.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D1.wav
+001A_S02.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D2.wav
+001A_S03.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D3.wav
+001A_S04.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D4.wav
+001A_S05.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D5.wav
+001A_S06.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D6.wav
+001A_S07.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D7.wav
+001A_S08.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D8.wav
+001A_S09.wav;Pistola de fuego central traumática;9mm;3;180;Pistola_Traumatica_3m_180_D9.wav
+001B_S01.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D1.wav
+001B_S02.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D2.wav
+001B_S03.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D3.wav
+001B_S04.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D4.wav
+001B_S05.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D5.wav
+001B_S06.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D6.wav
+001B_S07.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D7.wav
+001B_S08.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D8.wav
+001B_S09.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D9.wav
+001B_S10.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D10.wav
+001B_S11.wav;Pistola de fuego central traumática;9mm;3;90;Pistola_Traumatica_3m_90_D11.wav
+006B_S01.wav;Escopeta Hedef ;12.0;3;90;Escopeta_Hedef_3m_90_D1.wav
+006B_S02.wav;Escopeta Hedef ;12.0;3;90;Escopeta_Hedef_3m_90_D2.wav
+007A_S01.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D1.wav
+007A_S02.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D2.wav
+007A_S03.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D3.wav
+007A_S04.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D4.wav
+007A_S05.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D5.wav
+007A_S06.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D6.wav
+007A_S07.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D7.wav
+007A_S08.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D8.wav
+007A_S09.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D9.wav
+007A_S10.wav;Mini uzi Ekol Asi;9mm;3;180;Mini_Uzi_Ekol_Asi_3m_180_D10.wav
+008A_S01.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D1.wav
+008A_S02.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D2.wav
+008A_S03.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D3.wav
+008A_S04.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D4.wav
+008A_S05.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D5.wav
+008A_S06.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D6.wav
+008A_S07.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D7.wav
+008A_S08.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D8.wav
+008A_S09.wav;Anschutz LR rifle;.22;3;180;Anschutz_LR_rifle_3m_180_D9.wav
+009A_S01.wav;Benjamin BTAP25 air rifle;25.0;3;180;Benjamin_BTAP_3m_180_D1.wav
+009A_S02.wav;Benjamin BTAP25 air rifle;25.0;3;180;Benjamin_BTAP_3m_180_D2.wav
+009A_S03.wav;Benjamin BTAP25 air rifle;25.0;3;180;Benjamin_BTAP_3m_180_D3.wav
+009A_S04.wav;Benjamin BTAP25 air rifle;25.0;3;180;Benjamin_BTAP_3m_180_D4.wav
+009A_S05.wav;Benjamin BTAP25 air rifle;25.0;3;180;Benjamin_BTAP_3m_180_D5.wav
+009A_S06.wav;Benjamin BTAP25 air rifle;25.0;3;180;Benjamin_BTAP_3m_180_D6.wav
+011B_S01.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D1.wav
+011B_S02.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D2.wav
+011B_S03.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D3.wav
+011B_S04.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D4.wav
+011B_S05.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D5.wav
+011B_S06.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D6.wav
+011B_S07.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D7.wav
+011B_S08.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D8.wav
+011B_S09.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D9.wav
+011B_S10.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D10.wav
+011B_S11.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D11.wav
+011B_S12.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D12.wav
+011B_S13.wav;Pistola de fuego central traumática;9mm;10;130;Pistola_Traumatica_10m_130_D13.wav
+019A_S01.wav;Benjamin BTAP25 air rifle;25.0;10;180;Benjamin_BTAP_10m_180_D1.wav
+019A_S02.wav;Benjamin BTAP25 air rifle;25.0;10;180;Benjamin_BTAP_10m_180_D2.wav
+019A_S03.wav;Benjamin BTAP25 air rifle;25.0;10;180;Benjamin_BTAP_10m_180_D3.wav
+021A_S01.wav;Pistola de fuego central traumática;9mm;10;90;Pistola_Traumatica_10m_90_D1.wav
+021A_S02.wav;Pistola de fuego central traumática;9mm;10;90;Pistola_Traumatica_10m_90_D2.wav
+021A_S03.wav;Pistola de fuego central traumática;9mm;10;90;Pistola_Traumatica_10m_90_D3.wav
+021A_S04.wav;Pistola de fuego central traumática;9mm;10;90;Pistola_Traumatica_10m_90_D4.wav
+021A_S05.wav;Pistola de fuego central traumática;9mm;10;90;Pistola_Traumatica_10m_90_D5.wav
+021A_S06.wav;Pistola de fuego central traumática;9mm;10;90;Pistola_Traumatica_10m_90_D6.wav
+031B_S01.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D1.wav
+031B_S02.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D2.wav
+031B_S03.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D3.wav
+031B_S04.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D4.wav
+031B_S05.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D5.wav
+031B_S06.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D6.wav
+031B_S07.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D7.wav
+031B_S08.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D8.wav
+031B_S09.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D9.wav
+031B_S10.wav;Pistola de fuego central traumática;9mm;20;130;Pistola_Traumatica_20m_130_D10.wav
+091A_S01.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D1.wav
+091A_S02.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D2.wav
+091A_S03.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D3.wav
+091A_S04.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D4.wav
+091A_S05.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D5.wav
+091A_S06.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D6.wav
+091A_S07.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D7.wav
+091A_S08.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D8.wav
+091A_S09.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D9.wav
+091A_S10.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D10.wav
+091A_S11.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D11.wav
+091A_S12.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D12.wav
+091A_S13.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D13.wav
+091A_S14.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D14.wav
+091A_S15.wav;Pistola de fuego central traumática;9mm;1;180;Pistola_Traumatica_1m_180_D15.wav
